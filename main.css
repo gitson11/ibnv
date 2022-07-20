@@ -227,7 +227,7 @@ h3 {
     background: #eeeeee;
 } 
 .col-4 {
-    float: left;
+    /*float: left;*/
     width: 25%;
     text-align: center;
 }
