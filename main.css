@@ -242,6 +242,15 @@ cursor: pointer;
     position: relative!important;
 }
 
+.col-5 {
+    display: inline-table;
+    align-items: center;
+    width: 30%;
+    text-align: right;
+    margin-left: 30px;
+    margin-right: auto;
+}
+
 .bloco-logos {
     height: 170px;
 }
